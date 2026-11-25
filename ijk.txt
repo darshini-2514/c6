@@ -1,2 +1,6 @@
 edit1
+<<<<<<< HEAD
 edit3
+=======
+edit 2
+>>>>>>> e6f2c21 (save local changes to ijk.txt)
